@@ -1,3 +1,9 @@
+---
+layout: default
+title: Welcome to My Site
+---
+
+
 # Data Science Stack repo 
 
 Env is based on docker image: jupyter/datascience-notebook 
